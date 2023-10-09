@@ -57,29 +57,29 @@ insert into employee (name, birthday, email) values ('Myca', '1941-01-06', 'mant
 insert into employee (name, birthday, email) values ('Simonette', '1985-03-08', 'sgeraghty1d@ameblo.jp');
 --------------------------------
 update employee 
-set name = 'Muhammed',
+set name = 'Balat',
     birthday = '1999-05-09',
-    email = 'muhammed.slmz@gmail.com'
+    email = 'b@gmail.com'
 where id =1
 update employee
-set name = 'Furkan',
+set name = 'Atakan',
     birthday = '2002-11-07',
-    email = 'furkan@gmail.com'
+    email = 'aa@gmail.com'
 where id = 2
 update employee
-set name = 'Ahmet',
+set name = 'Ali',
     birthday = '2002-11-07',
-    email = 'ahmet34@gmail.com'
+    email = 'a@gmail.com'
 where id = 3
 update employee
-set name = 'Buse',
+set name = 'veli',
     birthday = '2002-06-15',
-    email = 'crowgirl@gmail.com'
+    email = 'v@gmail.com'
 where id = 4
 update employee
-set name = 'Cansel',
+set name = 't',
     birthday = '1999-11-07',
-    email = 'cnslcnsl@gmail.com'
+    email = 'tgmail.com'
 where id = 5
 
 ------------------------------------
